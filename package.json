@@ -1,0 +1,11 @@
+{
+  "name": "tallies",
+  "version": "1.0.0",
+  "description": "Renders a number in the 'tally' system (groups of five (crossed) and one).",
+  "main": "Tallies.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MaxEES",
+  "license": "ISC"
+}
