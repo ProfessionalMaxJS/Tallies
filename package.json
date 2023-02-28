@@ -1,11 +1,27 @@
 {
-  "name": "tallies",
+  "name": "tallymarks",
   "version": "1.0.0",
-  "description": "Renders a number in the 'tally' system (groups of five (crossed) and one).",
+  "description": "A component to convert a number into groups of fives (crossed) and ones.",
   "main": "Tallies.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProfessionalMaxJS/Tallies.git"
+  },
+  "keywords": [
+    "tallies",
+    "tally",
+    "marks",
+    "counting",
+    "numerals",
+    "ones-and-fives"
+  ],
   "author": "MaxEES",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ProfessionalMaxJS/Tallies/issues"
+  },
+  "homepage": "https://github.com/ProfessionalMaxJS/Tallies#readme"
 }
