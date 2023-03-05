@@ -2,7 +2,8 @@
   "name": "tallies",
   "version": "1.2.0",
   "description": "A component to convert a number into groups of fives (crossed) and ones.",
-  "main": "Tallies.js",
+  "main": "dist/index.js",
+  "module": "dist/index.es.js",
   "scripts": {
     "build-lib": "rollup -c"
   },
