@@ -1,5 +1,12 @@
+import React from 'react';
+
 function Tallies({
-  number
+  number,
+  textColor,
+  textSize,
+  font,
+  lineStyle,
+  strikeThroughColor
 }) {
   let fives = new Array(Math.floor(number / 5)).fill('|||| ').join('');
   let ones = new Array(number % 5).fill('|').join('');
