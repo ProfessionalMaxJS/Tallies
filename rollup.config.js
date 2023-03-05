@@ -12,7 +12,8 @@ export default [
             },
             {
             file: 'dist/index.js',
-            format: 'cjs'
+            format: 'cjs',
+            exports: 'default'
             }
         ],
         plugins: [
