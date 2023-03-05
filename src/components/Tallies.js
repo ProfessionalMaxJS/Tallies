@@ -10,10 +10,13 @@ function Tallies ({ number, lineStyle, textColor, strikeThroughColor, textSize, 
   }, [number])
 
   return (
-          <div style={{ color: textColor, fontSize: textSize, fontFamily: font }}>
-                <span style={{ textDecorationLine: 'line-through', textDecorationStyle: lineStyle, textDecorationColor: strikeThroughColor }}>{fives}</span>
-                <span>{ones}</span>
-          </div>
+    <>
+        <Header />
+        <div style={{ color: textColor, fontSize: textSize, fontFamily: font }}>
+              <span style={{ textDecorationLine: 'line-through', textDecorationStyle: lineStyle, textDecorationColor: strikeThroughColor }}>{fives}</span>
+              <span>{ones}</span>
+        </div>
+    </>
 )
 }
 
