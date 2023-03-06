@@ -18,6 +18,7 @@ Tallies with style props inherited from Create React App.
 ![Tallies with style props set.](https://i.ibb.co/qFrcWFH/prop-tallies.jpg)  
 Tallies with Tallies with props `textColor={"red} textSize={"4rem"} font={"Georgia, serif"} lineStyle={"wavy"} lineColor={"green}`.
 
+#
 I hope this walkthrough is helpful. And I hope you have fun using the component!  
 Cheers,  
 Max
