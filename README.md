@@ -9,7 +9,8 @@ Other available props are for styling, and not given default values. As a result
 * `font` for [fontFamily](https://developer.mozilla.org/en-US/docs/Web/CSS/font-family).
 * `lineStyle` targets the [textDecorationStyle](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-style) property to manipulate the style of the strike-through itself (try wavy, it's fun).
 * `lineColor` same as above, but targets [textDecorationColor](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-color) for its color.
-Note: the last two components work because the tallies are generated with [textDecorationLine](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line) pre-set to "line-through" in the "fives" section.
+
+Note: the last two props work because the tallies are generated with [textDecorationLine](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line) pre-set to "line-through" in the "fives" section.
 
 I hope this walkthrough is helpful. And I hope you have fun using the component!
 Cheers,
