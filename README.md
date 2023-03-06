@@ -11,11 +11,11 @@ Other available props are for styling, and not given default values. As a result
 Note: the last two props work because the tallies are generated with [textDecorationLine](https://developer.mozilla.org/en-US/docs/Web/CSS/text-decoration-line) pre-set to "line-through" in the "fives" section.
 
 ## Screenshots:
-[![Tallies with no props](https://ibb.co/yhFV5jc)]  
+![Tallies with no props](https://ibb.co/yhFV5jc?raw=true)  
 Tallies with no style props.  
-[![Tallies with style props inherited from Create React App](https://ibb.co/RYNWMxv)]  
+![Tallies with style props inherited from Create React App](https://ibb.co/RYNWMxv?raw=true)  
 Tallies with style props inherited from Create React App.  
-[![Tallies with style props set](https://ibb.co/M5CtG5z)]  
+![Tallies with style props set](https://ibb.co/M5CtG5z?raw=true)  
 Tallies with Tallies with props `textColor={"red} textSize={"4rem"} font={"Georgia, serif"} lineStyle={"wavy"} lineColor={"green}`.
 
 I hope this walkthrough is helpful. And I hope you have fun using the component!  
