@@ -1,6 +1,6 @@
 {
   "name": "tallies",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "A component to convert a number into groups of fives (crossed) and ones.",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
