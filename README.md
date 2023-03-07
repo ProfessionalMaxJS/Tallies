@@ -9,9 +9,9 @@ This package is a plug-and-play component that takes in a prop, `number` and ren
 Tallies with `number` prop set to 2  
 ![Tallies with number prop set to 7](https://i.ibb.co/Sm1w1vH/tallies-7.jpg)  
 Tallies with `number` prop set to 7  
-[![Tallies with number prop set to dynamic variable](https://i.ibb.co/F4KjCrH/tallies-random.jpg)](https://github.com/ProfessionalMaxJS/tallies_demo/blob/main/src/App.js)  
-[![Tallies with number prop set to dynamic variable](https://i.ibb.co/0s6tbsQ/tallies-random-clip.gif)](https://github.com/ProfessionalMaxJS/tallies_demo/blob/main/src/App.js)  
-Tallies with number prop set to dynamic variable  
+[![Settings to use a dynamic variable](https://i.ibb.co/F4KjCrH/tallies-random.jpg)](https://github.com/ProfessionalMaxJS/tallies_demo/blob/main/src/App.js)  
+[![Example of Tallies with a dynamic variable](https://i.ibb.co/0s6tbsQ/tallies-random-clip.gif)](https://github.com/ProfessionalMaxJS/tallies_demo/blob/main/src/App.js)  
+Tallies with `number` prop set to dynamic variable  
 
 ## Styling
 Other available props are for styling, and not given default values. As a result, a Tallies component will inherit the styling of its parents. All available props take in a string which, when following [JSX Inline Styling syntax](https://techstacker.com/how-to-inline-style-jsx-react-css/) (ie, all values must be strings), will affect given CSS properties of the component. Available props include:  
