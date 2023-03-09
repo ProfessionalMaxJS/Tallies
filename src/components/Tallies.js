@@ -12,7 +12,7 @@ function Tallies ({ number=0, textColor, textSize, font, lineStyle, lineColor })
               <span>{ones}</span>
         </div>
     </>
-)
+  )
 }
 
 export default Tallies
